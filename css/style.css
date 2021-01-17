@@ -32,7 +32,7 @@ section#latest .latest-item {
 
 section#latest .latest-item:hover .overlay {
     opacity: 1;
-    background: rgba(189, 61, 75, 0.9);
+    background: rgba(240, 188, 194, 0.9);
 }
 section#latest .latest-item:hover i {
     opacity: 1;
